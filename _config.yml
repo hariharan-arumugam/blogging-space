@@ -1,7 +1,8 @@
 title: Agency - Start Bootstrap Theme
 description: ''
 author: ''
-
+url: "https://thenomadstories.github.io"
+baseurl: "/"
 sass:
   style: compressed
 
