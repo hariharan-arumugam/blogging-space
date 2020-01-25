@@ -10,3 +10,5 @@ assets_path: ''
 
 collections:
   projects:
+
+theme: jekyll-theme-architect
